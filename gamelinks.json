@@ -1,10 +1,12 @@
-{
-  "name": "Itch",
-  "icon": "https://simpleicons.org/icons/itchdotio.svg",
-  "link": "https://kyriww.itch.io/",
-}
-{
-  "name": "GitHub",
-  "icon": "https://simpleicons.org/icons/github.svg",
-  "link": "https://github.com/kyriww/",
-}
+[
+  {
+    "name": "Itch",
+    "icon": "https://simpleicons.org/icons/itchdotio.svg",
+    "link": "https://kyriww.itch.io/"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://simpleicons.org/icons/github.svg",
+    "link": "https://github.com/kyriww/"
+  }
+]
